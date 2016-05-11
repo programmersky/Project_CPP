@@ -1,0 +1,5 @@
+﻿  CongTy.cpp
+e:\visual studio 2015\projects\quanlynhanvien-dahinh\quanlynhanvien-dahinh\congty.cpp(52): warning C4018: '<': signed/unsigned mismatch
+e:\visual studio 2015\projects\quanlynhanvien-dahinh\quanlynhanvien-dahinh\congty.cpp(70): warning C4018: '<': signed/unsigned mismatch
+  QuanLyNhanVien-DaHinh.vcxproj -> E:\Visual Studio 2015\Projects\QuanLyNhanVien-DaHinh\Debug\QuanLyNhanVien-DaHinh.exe
+  QuanLyNhanVien-DaHinh.vcxproj -> E:\Visual Studio 2015\Projects\QuanLyNhanVien-DaHinh\Debug\QuanLyNhanVien-DaHinh.pdb (Partial PDB)
